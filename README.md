@@ -6,6 +6,7 @@
 
 ## 如何贡献题目?
 大家可以在 【[Issue](https://github.com/jirengu/frontend-interview/issues)】上通过提交Issue的形式提交日常遇到的笔试面试题，无论是多"高端"或者多"低级"。
+![label](http://7xpvnv.com2.z0.glb.qiniucdn.com/3884f92f-9c3c-408d-9eb3-b0d0a4323f69) 
 
 **注意**: 
 
